@@ -1,0 +1,14 @@
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.exe
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.deps.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.runtimeconfig.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.runtimeconfig.dev.json
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\bin\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.csproj.AssemblyReference.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.AssemblyInfoInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.AssemblyInfo.cs
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.csproj.CoreCompileInputs.cache
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.dll
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.pdb
+C:\Users\gmist\OneDrive\Bureau\6TTI_EX\UAA14_C#\Act4_ExerciceSimple_SandwichMaker\Act4_ExerciceSimple_SandwichMaker\obj\Debug\netcoreapp3.1\Act4_ExerciceSimple_SandwichMaker.genruntimeconfig.cache
